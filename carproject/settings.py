@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'cars.apps.CarsConfig'
+    'cars.apps.CarsConfig',
     'corsheaders'
 ]
 
